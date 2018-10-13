@@ -1,0 +1,19 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+
+/* Bootstrap Override */
+.row {
+  margin:0 !important;
+}
+
+/* Main */
+main {
+  padding: 5rem 0 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/* Chart */
+.chart {
+  width: 100%; 
+  min-height: 450px;
+}
