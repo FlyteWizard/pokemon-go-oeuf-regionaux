@@ -17,4 +17,4 @@ Statistiques des Œufs Éclos
 
 * [Google Chart](https://developers.google.com/chart/interactive/docs/quick_start)
 * [Inspiration](https://codepen.io/flopreynat/pen/BfLkA)
-* [Google Chart Document](http://flopreynat.com/blog/make-google-charts-responsive.html)
+* [Document Google Chart](http://flopreynat.com/blog/make-google-charts-responsive.html)
