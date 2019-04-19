@@ -1,12 +1,10 @@
-// Load the Visualization API and the corechart package.
+// Load the Visualization API and the Corechart Package.
 google.charts.load('current', {'packages':['corechart']});
 
 // Set a callback to run when the Google Visualization API is loaded.
 google.charts.setOnLoadCallback(drawChart);
 
-// Callback that creates and populates a data table,
-// instantiates the pie chart, passes in the data and
-// draws it.
+// Callback that creates and populates a data table, instantiates the pie chart, passes in the data and draws it.
 function drawChart() {
 
   // Create the data table.
@@ -33,7 +31,7 @@ function drawChart() {
                   'fontName': 'Titillium Web'
                 };
 
-  // Instantiate and draw our chart, passing in some options.
+  // Instantiate and draw our chart, passing in options.
   var chart = new google.visualization.PieChart(document.getElementById('chart'));
   chart.draw(data, options);
 }

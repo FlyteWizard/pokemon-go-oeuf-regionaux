@@ -1,14 +1,20 @@
 # Pokémon Go Œuf Régionaux
 
-http://smooth-basket.surge.sh
+Statistiques des Œufs Éclos
 
-Créer avec google charts.
+![Promo du Siteweb][promo]
 
-![Site Web](./siteweb.png)
+[promo]: ./images/promo.png "Promo Siteweb"
+
+## Créer Avec
+
+* [Google Charts](https://developers.google.com/chart/)
+* [Bootstrap 4](https://getbootstrap.com/)
+* [Google Font](https://fonts.google.com/)
+* [Surge](https://surge.sh/)
 
 ## Ressources
 
-* https://developers.google.com/chart/interactive/docs/quick_start
-* https://codepen.io/flopreynat/pen/BfLkA
-* http://flopreynat.com/blog/make-google-charts-responsive.html
-* https://getbootstrap.com/docs/4.0/getting-started/introduction/
+* [Google Chart](https://developers.google.com/chart/interactive/docs/quick_start)
+* [Inspiration](https://codepen.io/flopreynat/pen/BfLkA)
+* [Google Chart Document](http://flopreynat.com/blog/make-google-charts-responsive.html)
